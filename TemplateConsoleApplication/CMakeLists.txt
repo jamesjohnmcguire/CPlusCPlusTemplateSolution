@@ -1,0 +1,2 @@
+add_executable(TemplateConsoleApplication TemplateConsoleApplication.cpp)
+target_link_libraries(TemplateConsoleApplication PRIVATE TemplateLibrary)
