@@ -45,3 +45,5 @@ dlldata.c
 *.log
 .builds
 *.pidb
+
+packages/
