@@ -33,10 +33,10 @@
 		<Keyword>Win32Proj</Keyword>
 		<LinkIncremental>true</LinkIncremental>
 		<OutDir>$(SolutionDir)\Bin\$(Configuration)\$(Platform)\</OutDir>
-		<PlatformToolset>v143</PlatformToolset>
+		<PlatformToolset>v145</PlatformToolset>
 		<ProjectGuid>{e18107e9-551a-417a-96dc-1b6311a22635}</ProjectGuid>
 		<RootNamespace>TemplateConsoleApplication</RootNamespace>
-		<VCProjectVersion>17.0</VCProjectVersion>
+		<VCProjectVersion>18.0</VCProjectVersion>
 		<WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
 	</PropertyGroup>
 
