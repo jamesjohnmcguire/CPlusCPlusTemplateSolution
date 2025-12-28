@@ -58,7 +58,7 @@
 			<LanguageStandard_C>stdc17</LanguageStandard_C>
 			<PrecompiledHeader>Use</PrecompiledHeader>
 			<PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-			<PreprocessorDefinitions>_WINDOWS;_USRDLL;TEMPLATELIBRARY_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+			<PreprocessorDefinitions>TEMPLATELIBRARY_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
 			<SDLCheck>true</SDLCheck>
 			<WarningLevel>Level3</WarningLevel>
 		</ClCompile>
