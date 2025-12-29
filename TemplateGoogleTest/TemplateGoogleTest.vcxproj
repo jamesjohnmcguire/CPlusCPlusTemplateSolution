@@ -59,7 +59,7 @@
 			<WarningLevel>Level3</WarningLevel>
 		</ClCompile>
 		<Link>
-			<AdditionalDependencies>gtest_main.lib;gtest.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+			<AdditionalDependencies>gtest.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
 			<SubSystem>Console</SubSystem>
 		</Link>
 	</ItemDefinitionGroup>
